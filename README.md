@@ -64,7 +64,7 @@
 
 ### 入门
 
-* 上岸整套流程概述
+* [上岸整套流程概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%B8%8A%E5%B2%B8%E6%95%B4%E5%A5%97%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0.md)
 * 公考相关 100 词
 * 公考概述
 * 机关事业单位概述
