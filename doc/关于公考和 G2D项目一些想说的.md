@@ -7,7 +7,7 @@
 
 ## 概述
 
-![5aef442b66e4651bf6e0a8a24513541.jpg](img/5aef442b66e4651bf6e0a8a24513541-20211115154749-9u2shjb.jpg)
+![5aef442b66e4651bf6e0a8a24513541.jpg](https://github.com/miss-mumu/developer2gwy/blob/main/doc/img/5aef442b66e4651bf6e0a8a24513541-20211115154749-9u2shjb.jpg)
 
 21 年 13 日，我们去郊区游玩，在柑橘园中手采柑橘的时候，激烈的讨论了下自项目开工一来，各种渠道收到的鼓励、疑问和质疑。我们作了如下阶段性的汇总。
 
