@@ -22,11 +22,11 @@ wiki 上更新（重点）：
 * [分享培训机构课程列表（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89")：分享 13 个培训机构课程共 466G 资料，正逐步完善
 * [捐赠规则](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99 "https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99")：想捐赠、已捐赠必看
 * [隐私保护](https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4 "https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4")：我们怎么保护隐私
-* [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB "https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB")：测试阶段
+* [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%90%84%E5%9C%B0%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB%EF%BC%88%E6%B5%8B%E8%AF%95%EF%BC%89")：测试阶段
 
 ---
 
-README **公告：** 上周，我们收到“大家岸上见”以及“Zoew***”的 **捐赠** ，在此感谢！与此同时，我们也深刻的做出检讨，我们的更新超时了。原因：张华要保障今年第三代社保系统上线，李雷也有年底迎检任务，韩梅梅同样碰到年底结账的事情，我也有事（苦笑.jpg）
+**README 公告：** 上周，我们收到“大家岸上见”以及“Zoew***”的 **捐赠** ，在此感谢！与此同时，我们也深刻的做出检讨，我们的更新超时了。原因：张华要保障今年第三代社保系统上线，李雷也有年底迎检任务，韩梅梅同样碰到年底结账的事情，我也有事（苦笑.jpg）
 
 忙完这阵子，接着就不会忙下一阵子了（哈哈哈），所以，以后会按进度保证更新。
 
