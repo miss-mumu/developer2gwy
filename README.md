@@ -2,58 +2,59 @@
 
 # developer2gwy
 
-**更新公告：**
-*[机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md)：机关事业的概念、有哪些单位、大概职能、适合哪些专业报考*。(文中有些争议，完整版稍后更新)
+---
 
-*拆分归纳“关于公考和 G2D 项目一些想说的”这篇文章*
+**更新公告：**  
 
-正文更新：
-* [公考问答、体制内工作生活](#正文目录)
+* *[机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md")：机关事业的概念、有哪些单位、*(文中有些争议，因此还需继续完善)
+* [公务员工资福利待遇组成]()：工资组成、福利待遇等等
 
 issus 上更新：
 
-* [D2G 项目的初心以及真实目的？](https://github.com/miss-mumu/developer2gwy/issues/3)
-* [如何保证内容的真实可靠性？](https://github.com/miss-mumu/developer2gwy/issues/5)
-* [更新进度为什么这么慢？](https://github.com/miss-mumu/developer2gwy/issues/4)
-* [如何分享培训机构课程？收费吗？是最新的吗？](https://github.com/miss-mumu/developer2gwy/issues/6)
-* [体制内人员如何参与此项目？](https://github.com/miss-mumu/developer2gwy/issues/8)
-* [备考人员如何参与项目？](https://github.com/miss-mumu/developer2gwy/issues/7)
+* [在职人员，怎么平衡工作与备考？](https://github.com/miss-mumu/developer2gwy/issues/9)
+* [是一毕业就进体制内，还是先工作？](https://github.com/miss-mumu/developer2gwy/issues/10)
+* [体制内脱单手册](https://github.com/miss-mumu/developer2gwy/issues/11)
 
-wiki 上更新：
+wiki 上更新（重点）：
 
-* [资料分享列表](https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8)
-* [备考必备网站及应用](https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8)
-* [分享培训机构课程列表（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89)
-* [捐赠规则](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)
-* [隐私保护](https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4)
-* [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB)
+* [资料分享列表](https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8")：分享有利于备考的新闻、政策、文章，正在逐步完善
+* [备考必备网站及应用](https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8")：建议使用纸质材料
+* [分享培训机构课程列表（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89")：分享 13 个培训机构课程共 466G 资料，正逐步完善
+* [捐赠规则](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99 "https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99")：想捐赠、已捐赠必看
+* [隐私保护](https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4 "https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4")：我们怎么保护隐私
+* [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB "https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB")：测试阶段
 
 ---
 
-README **公告：**
-上周，我们收到“子川”以及“王\**”的**捐赠**，在此感谢！与此同时，“子川”指出文中的一些笔误，已在指出当天立马改正。
+README **公告：** 上周，我们收到“大家岸上见”以及“Zoew***”的 **捐赠** ，在此感谢！与此同时，我们也深刻的做出检讨，我们的更新超时了。原因：张华要保障今年第三代社保系统上线，李雷也有年底迎检任务，韩梅梅同样碰到年底结账的事情，我也有事（苦笑.jpg）
 
-上周，我们向 12 位添加联系方式的同学，免费分享了课程。其中，有几位大四学生，提出付费购买往后课程。在此，我们团队再次重申：**我们分享的课程资料与项目文档是完全免费的**！尤其对于尚未工作的学生们。分享课程请参考：[如何分享培训机构课程？收费吗？是最新的吗？](https://github.com/miss-mumu/developer2gwy/issues/6)
+忙完这阵子，接着就不会忙下一阵子了（哈哈哈），所以，以后会按进度保证更新。
 
-上周，我们收到一些问题，有项目本身的问题、有公考的问题、有分享资料的问题等等。在此，我们决定向大家每周反馈一些有代表的性的问题，来丰富 D2G 项目，请点击：[issue](https://github.com/miss-mumu/developer2gwy/issues)。
+上周，我们向 11 位添加联系方式的同学，免费分享了课程。其中，有在职备考的，有还未毕业的学弟。其中，在职备考，主要关注：“怎么平衡工作与备考”；还未毕业的学弟，主要关注：“是先找工作，还是全心全意备考，一毕业就进体制”。另外，有位体制内的朋友，询问“体制内怎么脱单”。
+
+在此，我们与周边朋友和同事聊完后，在 issues 上分享我们整理的意见建议:
+
+* [在职人员，怎么平衡工作与备考？](https://github.com/miss-mumu/developer2gwy/issues/9)
+* [是一毕业就进体制内，还是先工作？](https://github.com/miss-mumu/developer2gwy/issues/10)
+* [体制内脱单手册](https://github.com/miss-mumu/developer2gwy/issues/11)
 
 上周，我们根据反馈，决定对项目做如下调整：
 
 * README 调整 ：
 
-  * 精简团体介绍中角色认领部分，缩减版面，提高信息集中度
-  * 增加 README 目录跳转，放在“为什么”上方
-  * 更改正文目录为文章目录
-  * 访谈众筹-改为真实性保证：有位朋友询问，我们如何保证内容的真实可靠？
-* 文章结构调整：
+  * 新增项目必看目录：让大家快速了解我们项目的初心、目的、能解决那些问题、各项原则规则，尽早熟悉项目，快速找到自己所需，从而节约时间，少走弯路。
 
-  * 文章结构杂乱：将文章问题原子化，将与公考、体制生活相关的每个问题作为一篇文章，与其无关的，放置在 issues 与 wiki 中
-  * 文章不够简洁：除了必要的标头和行文脉络，内容将更加简洁直白，方便大家高效抓住核心内容
-* 项目调整：
+最后，上周，我们通过大家的反馈聊天，进一步反思了 D2G 项目，我们认为：**比起输出知识或者内容，帮助大家达成目的更为重要**。而关注 D2G 项目，大多数人的目的是：**参加公考，进入体制内**。
 
-  * issues：放置公考无关的问题，例如：资料怎么分享、项目的一些意见、想法等
-  * wiki：放置项目相关的一些资料，例如：资料、文件、政策、公告、公示等文档文件以及链接
-  * master 源文件：只放置与公考、体制工作生活相关文件，例如：行测知识模块清单等文档。
+因此，普遍有如下几点疑惑：
+
+* 在职的：犹豫是否进体制内、不知如何开始准备、开始后会遇到各种各样的问题等等
+* 还未毕业的：迷茫是做程序员还是做公务员、对未来的职业发展有些迷茫、找不到如何选择培训机构、囊中有点羞涩各种资料的挑选浪费了时间等等
+* 已经进入体制内的：日常缺少工作生活的交流交心、工作压力有点大、晋升发展云里雾里等等
+
+而我们自身也在爬坡过坎、摸石头过河。但我们相信，随着越来越多人的参与、问题倒逼输出、集思广益、查漏补缺。上述问题，终将不是问题，至少不会是因为信息不透明导致的问题。
+
+因此，我们以后，除了会保持有节奏的更新内容，但主要精力可能会放在**添加微信学习交流**和[**已经捐赠**]()的伙伴身上，第一时间解决他们的问题、与其分享交流谈心、帮助他们达成目的。
 
 ---
 
@@ -61,25 +62,25 @@ README **公告：**
 
 > 做 Java 后端的张华考上了信息中心，做前端的李萍考上了医保局，我还在公司敲着 CURD 业务代码，瞟了一眼大楼下“格子衫双肩包”在深夜路灯边拉长的影子，回头看了眼朋友圈里面张华、李萍就着夕阳、在公园草地上追着狗，大笑。嗯，我们都有光明的前途。
 
-[为什么](#为什么)
+[为什么](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E4%B8%BA%E4%BB%80%E4%B9%88 "#%E4%B8%BA%E4%BB%80%E4%B9%88")
 
-[教程简介](#教程简介)
+[教程简介](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B "#%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B")
 
-[团队简介](#团队简介)
+[团队简介](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E5%9B%A2%E9%98%9F%E7%AE%80%E4%BB%8B "#%E5%9B%A2%E9%98%9F%E7%AE%80%E4%BB%8B")
 
-[正文目录](#正文目录)
+[正文目录](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E6%AD%A3%E6%96%87%E7%9B%AE%E5%BD%95 "#%E6%AD%A3%E6%96%87%E7%9B%AE%E5%BD%95")
 
-[真实性保证](#真实性保证)
+[真实性保证](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E7%9C%9F%E5%AE%9E%E6%80%A7%E4%BF%9D%E8%AF%81 "#%E7%9C%9F%E5%AE%9E%E6%80%A7%E4%BF%9D%E8%AF%81")
 
-[捐赠明细](#捐赠明细)
+[捐赠明细](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#%E6%8D%90%E8%B5%A0%E6%98%8E%E7%BB%86 "#%E6%8D%90%E8%B5%A0%E6%98%8E%E7%BB%86")
 
-[license](#license)
+[license](https://file+.vscode-resource.vscode-webview.net/c%3A/Users/Administrator/Documents/GitHub/developer2gwy/README.md#license "#license")
 
 ## 为什么
 
 **为什么会发起这个项目？**
 
-另一个回答：[关于公考和 G2D 项目一些想说的](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md)
+另一个回答：[关于公考和 G2D 项目一些想说的](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md")
 
 本项目的发起需要感谢 coder2gwy 的程序员公考指南。
 
@@ -113,32 +114,52 @@ README **公告：**
 >
 > 回想刚毕业找不到工作，代码无私的收留了我。而现在，它变得格外陌生和冷漠。后来进体制内才知道，无情的不是代码，而是其他。
 >
-> 在和“张华”无数个不眠之夜的深谈后，我们决定**躲进体制内**，不为别的，只因为只有外包公司愿意给我们工作机会。而机会的背后，则是日复一日的出差、加班、熬夜与朝不保夕的收入。
+> 在和“张华”无数个不眠之夜的深谈后，我们决定 **躲进体制内** ，不为别的，只因为只有外包公司愿意给我们工作机会。而机会的背后，则是日复一日的出差、加班、熬夜与朝不保夕的收入。
 >
 > 在下决心后，我便卸载删除所有技术相关的文档和源码（后来，特别后悔，原因后述）。花了 3 个月的时间全职备考，在 19 年省考上岸某市直单位。张华在我上岸后，切实感受到党给的福利待遇，经过我日夜“鞭打”与“嘲笑”，也与 20 年疫情后上岸某市直单位，希望我们的经历能够帮助大家。
 
 团队里还有：
 
 * 张华：Java 工程师（现在还在敲代码，解决单位一些重复性的工作），有 3 年多的开发经验，经历数个“知名”外包公司，有多个大厂以及银行的驻场开发经历，不喜欢洗头（之前一洗，手上一把头发），B 站大会员（硬币莫名其妙多了起来），庆幸在头发茂密之时，遇到李萍。
-* 李雷：前 Java 工程师（现专注投资理财，单位股票小能手），3 年多一线开发经验（深入到客户一线，曾经在噪音巨大的机房待不止一个月，因此闻到硬件自带的那种味道，耳鸣），未婚（**重点、重点、重点**），之前和张华一家公司，一起进、一起脱发、一起出（被裁）。因此成为要好的朋友，当初我们两除了睡觉，都窝在一起，鬼知道他哪来的时间处女朋友，还结婚了（哭笑不得.jpg）。
+* 李雷：前 Java 工程师（现专注投资理财，单位股票小能手），3 年多一线开发经验（深入到客户一线，曾经在噪音巨大的机房待不止一个月，因此闻到硬件自带的那种味道，耳鸣），未婚（ **重点、重点、重点** ），之前和张华一家公司，一起进、一起脱发、一起出（被裁）。因此成为要好的朋友，当初我们两除了睡觉，都窝在一起，鬼知道他哪来的时间处女朋友，还结婚了（哭笑不得.jpg）。
 * 韩梅梅：贤淑聪慧的传统好女孩（自助餐中默认上菜员、服务员、厨师），留着齐耳短发，爱穿连衣裙（大多碎花款，年龄放大器），是前运营小能手、灵魂段子手、油腻大叔伪挚友。爱好吃、喝奶茶，喜欢做饭（主要还是为了吃）。未婚（单位领导各种牵线，为之奈何），李萍的网络闺蜜（不打不成交），现某事业单位会计。
 * 吴凡：他们说给我这个“别称”的时候，我极为反对。这和我完全不一样，显的我很渣（真老实人）。UI 设计（他们说搞艺术的，得配这个别称），之前和韩梅梅一个公司，老乡（同一个省），Apple 全家桶收集者（原本齐了，AirPods 被某人抢走，哎），现在 soho，大部分时间备考（是的，我还没考上），业余接几个单子，偶尔旅游放松。
 * 等等
+
+## 项目必看
+
+issues 必看：
+
+* [D2G 项目的初心以及真实目的？](https://github.com/miss-mumu/developer2gwy/issues/3 "https://github.com/miss-mumu/developer2gwy/issues/3")
+* [如何保证内容的真实可靠性？](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
+* [更新进度为什么这么慢？](https://github.com/miss-mumu/developer2gwy/issues/4 "https://github.com/miss-mumu/developer2gwy/issues/4")
+* [如何分享培训机构课程？收费吗？是最新的吗？](https://github.com/miss-mumu/developer2gwy/issues/6 "https://github.com/miss-mumu/developer2gwy/issues/6")
+* [体制内人员如何参与此项目？](https://github.com/miss-mumu/developer2gwy/issues/8 "https://github.com/miss-mumu/developer2gwy/issues/8")
+* [备考人员如何参与项目？](https://github.com/miss-mumu/developer2gwy/issues/7 "https://github.com/miss-mumu/developer2gwy/issues/7")
+
+wiki 列表必看
+
+* [资料分享列表](https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8")
+* [备考必备网站及应用](https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8")
+* [分享培训机构课程列表（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89")
+* [捐赠规则](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99 "https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99")
+* [隐私保护](https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4 "https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4")
+* [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB "https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB")
 
 ## 正文目录
 
 ### 概述
 
-* [关于公考和 G2D 项目一些想说的](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md)
-* [上岸整套流程概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%B8%8A%E5%B2%B8%E6%95%B4%E5%A5%97%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0.md)
-* [公考相关 100 词](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md)
-* [公考概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md)
-* [机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md)
+* [关于公考和 G2D 项目一些想说的](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%B3%E4%BA%8E%E5%85%AC%E8%80%83%E5%92%8C%20G2D%E9%A1%B9%E7%9B%AE%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84.md")
+* [上岸整套流程概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%B8%8A%E5%B2%B8%E6%95%B4%E5%A5%97%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%B8%8A%E5%B2%B8%E6%95%B4%E5%A5%97%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0.md")
+* [公考相关 100 词](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md")
+* [公考概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
+* [机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md")
 * 编制概述：行政编、事业编、三支一扶、遴选、人事代理、公益岗位
 * 体制内情况概述
 * 工作环境概述
 * 工作内容概述
-* 工资福利待遇概述
+* [工资福利待遇概述]()
 * 晋升、职务、职级概述
 * 人际关系概述
 * 等等
@@ -146,9 +167,11 @@ README **公告：**
 ### 实践
 
 * 公考知识汇总
-  * [行测知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
+
+  * [行测知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md")
   * 申论知识模块清单
 * 公考备考最佳实践
+
   * 准备公考的思想建设、物质准备
   * 公考备考概述
   * 行测的最佳实践、注意事项
@@ -160,9 +183,11 @@ README **公告：**
   * 考察的最佳实践、注意事项
   * 等等
 * 公考问题手册（欢迎大家在 issue 或者添加微信提问）
+
   * 报考问题手册
+
     * 招考岗位解读
-    * [国考、省考、事业单位招考、教师、军队文职的区别](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md)
+    * [国考、省考、事业单位招考、教师、军队文职的区别](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
   * 选岗问题手册
   * 行测问题手册
   * 申论问题手册
@@ -172,30 +197,34 @@ README **公告：**
   * 政审问题手册
   * 考察问题手册
   * 考试问题手册
+
     * 忘记打准考证、准考证掉了、忘带了，怎么办
   * 等等
 * 公考问答
-  * [为什么参加公考？进入体制内的意义何在？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%EF%BC%9F%E8%BF%9B%E5%85%A5%E4%BD%93%E5%88%B6%E5%86%85%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8%EF%BC%9F.md)
-  * [公考真是的难度到底怎么样？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%85%AC%E8%80%83%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md)
-  * [大家偷偷的备考不好么？已经够卷了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%A4%A7%E5%AE%B6%E5%81%B7%E5%81%B7%E7%9A%84%E5%A4%87%E8%80%83%E4%B8%8D%E5%A5%BD%E4%B9%88%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%9F%E5%8D%B7%E4%BA%86.md)
-  * [我参加公考好几年，还没有上岸，心态快崩了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md)
+
+  * [为什么参加公考？进入体制内的意义何在？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%EF%BC%9F%E8%BF%9B%E5%85%A5%E4%BD%93%E5%88%B6%E5%86%85%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%EF%BC%9F%E8%BF%9B%E5%85%A5%E4%BD%93%E5%88%B6%E5%86%85%E6%84%8F%E4%B9%89%E4%BD%95%E5%9C%A8%EF%BC%9F.md")
+  * [公考真是的难度到底怎么样？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%85%AC%E8%80%83%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%85%AC%E8%80%83%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md")
+  * [大家偷偷的备考不好么？已经够卷了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%A4%A7%E5%AE%B6%E5%81%B7%E5%81%B7%E7%9A%84%E5%A4%87%E8%80%83%E4%B8%8D%E5%A5%BD%E4%B9%88%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%9F%E5%8D%B7%E4%BA%86.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%A4%A7%E5%AE%B6%E5%81%B7%E5%81%B7%E7%9A%84%E5%A4%87%E8%80%83%E4%B8%8D%E5%A5%BD%E4%B9%88%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%9F%E5%8D%B7%E4%BA%86.md")
+  * [我参加公考好几年，还没有上岸，心态快崩了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md")
 
 ### 体制工作生活访谈
 
 * 上岸经历访谈
+
   * 李萍：“体制对普通女孩是真的不错”
   * 张华：“程序员其实挺适合进体制内的”
   * 李雷：“我就想知道怎么处对象”
   * 韩梅梅：“我还是聊吃的吧”
   * 吴凡：“彼岸花开，早点上岸”
 * 体制生活问答
-  * [体制内的薪资待遇好吗？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md)
+
+  * [体制内的薪资待遇好吗？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md")
 
 ## 真实性保证
 
 备考资料的真实性：我们分享的每一份资料，都要经过团队成员的查验其来源、内容。大概率能保证适用于备考与真实性。我们分享的每一份教程，都是由吴凡购买，因为他土豪，且在备考，喜囤积各种培训机构材料（希望有能力的朋友，能购买官方渠道课程）。
 
-工作生活的真实性：访谈，是我们获取一手资料、真实的心得体会、最新信息的重要渠道，也是体制工作与生活内容真实性的重要保障。但由于人客观存在的认知偏差与趋利避害的天性，一些敏感内容是无法获取，也不便获取，更不应获取。所以，这部分我们只能保障发布**内容本身的客观真实性**，即**不做美化、加工、曲解**。但，我们会屏蔽一些**主观怨天尤人、发牢骚、负面情绪**的部分，这有违与我们初心与目的，也不适合大家备考期间了解。[附加阅读](https://github.com/miss-mumu/developer2gwy/issues/5)
+工作生活的真实性：访谈，是我们获取一手资料、真实的心得体会、最新信息的重要渠道，也是体制工作与生活内容真实性的重要保障。但由于人客观存在的认知偏差与趋利避害的天性，一些敏感内容是无法获取，也不便获取，更不应获取。所以，这部分我们只能保障发布 **内容本身的客观真实性** ，即 **不做美化、加工、曲解** 。但，我们会屏蔽一些**主观怨天尤人、发牢骚、负面情绪**的部分，这有违与我们初心与目的，也不适合大家备考期间了解。[附加阅读](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
 
 ## 捐赠明细
 
@@ -203,16 +232,18 @@ README **公告：**
 
 在这里，非常感谢以下捐赠人的无私捐赠，我们在此保证：**您们所有的捐赠都将用于项目本身，促进项目发展，帮助大家。**
 
-并且，所有的捐赠的使用，**在使用前都会提前公示，公示无异议后，会在 wiki 中附上使用日期、明细、发票。充分保证项目捐赠用于项目。**[捐赠必看](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)
+并且，所有的捐赠的使用， **在使用前都会提前公示，公示无异议后，会在 wiki 中附上使用日期、明细、发票。充分保证项目捐赠用于项目。** [捐赠必看](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99 "https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99")
 
-| 日期       | 捐赠人    | 金额 | 用途     |
-| ------------ | ----------- | ------ | ---------- |
-| 2021.11 | youth1231 | 1*   | 暂未使用 |
-| 2021.11 | 匿名      | 5*   | 暂未使用 |
-| 2021.11 | youth1231 | 1*   | 暂未使用 |
-| 2021.11 | 子川      | 9    | 暂未使用 |
-| 2021.11 | 王**      | 1*   | 暂未使用 |
+| 日期    | 捐赠人     | 金额 | 用途     |
+| --------- | ------------ | ------ | ---------- |
+| 2021.11 | youth1231  | 1*   | 暂未使用 |
+| 2021.11 | 匿名       | 5*   | 暂未使用 |
+| 2021.11 | youth1231  | 1*   | 暂未使用 |
+| 2021.11 | 子川       | 9    | 暂未使用 |
+| 2021.11 | 王**       | 1*   | 暂未使用 |
+| 2021.11 | 大家岸上见 | 1*   | 暂未使用 |
+| 2021.12 | Zoew***    | 2*   | 暂未使用 |
 
 ## license
 
-本库所有内容，采用 CC-BY-NC-SA 协议，即“创作共用-署名-非商业性-相同方式共享”协议。<br />
+本库所有内容，采用 CC-BY-NC-SA 协议，即“创作共用-署名-非商业性-相同方式共享”协议。
