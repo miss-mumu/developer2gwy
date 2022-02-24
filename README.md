@@ -4,13 +4,11 @@
 
 ## Quick start
 
----
-
 **体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) |
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
-**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看)
+**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) |
 
 ---
 
