@@ -6,11 +6,11 @@
 
 ---
 
-**体制备考**：公考是什么 |  怎么高效准备 | 公考资源分享 |
+**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) |
 
-**体制生活**：工作环境 | 工作内容 | 晋升路径 | 核心竞争力 |
+**体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
-**D2G项目**：项目愿景 | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看)
+**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看)
 
 ---
 
@@ -26,12 +26,12 @@
   * 新增“D2G项目”快速开始
   * 日常维护更新
 * 更新文章
-  * 申领应试模块清单
+  * [申论应试模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%94%B3%E8%AE%BA%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
 
 * 更新issuse
 
-  * 国外学历学位，能不能报告
-  * 能不能先上岸，在考心仪岗位
+  * [国外学历学位，能不能报考](https://github.com/miss-mumu/developer2gwy/issues/18)
+  * [能不能先上岸，再考心仪岗位](https://github.com/miss-mumu/developer2gwy/issues/19)
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
@@ -149,7 +149,7 @@ wiki 列表必看
 * 公考知识汇总
 
   * [行测知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md")
-  * 申论知识模块清单
+  * [申论知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%94%B3%E8%AE%BA%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
 * 公考备考最佳实践
 
   * 准备公考的思想建设、物质准备
@@ -186,6 +186,8 @@ wiki 列表必看
   * [公考真是的难度到底怎么样？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%85%AC%E8%80%83%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%85%AC%E8%80%83%E7%9C%9F%E5%AE%9E%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.md")
   * [大家偷偷的备考不好么？已经够卷了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%A4%A7%E5%AE%B6%E5%81%B7%E5%81%B7%E7%9A%84%E5%A4%87%E8%80%83%E4%B8%8D%E5%A5%BD%E4%B9%88%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%9F%E5%8D%B7%E4%BA%86.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%A4%A7%E5%AE%B6%E5%81%B7%E5%81%B7%E7%9A%84%E5%A4%87%E8%80%83%E4%B8%8D%E5%A5%BD%E4%B9%88%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%9F%E5%8D%B7%E4%BA%86.md")
   * [我参加公考好几年，还没有上岸，心态快崩了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md")
+  * [明明相爱，为什么会分开:借停更，谈借调问题](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%98%8E%E6%98%8E%E7%9B%B8%E7%88%B1%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%BC%80.md)
+  * [D2G项目21年12月24日会议纪要](https://github.com/miss-mumu/developer2gwy/blob/main/doc/D2G%E9%A1%B9%E7%9B%AE21%E5%B9%B412%E6%9C%8824%E6%97%A5%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
   
 ### 体制工作生活访谈
 
