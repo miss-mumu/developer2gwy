@@ -27,9 +27,9 @@
 
 * 更新文章
 
-  * 公考概述、思想建设以及物质准备
-  * 招考岗位解读
-  * 忘记打准考证、准考证掉了、忘带了，怎么办
+  * [公考概述、思想建设以及物质准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0%E3%80%81%E6%80%9D%E6%83%B3%E5%BB%BA%E8%AE%BE%E4%BB%A5%E5%8F%8A%E7%89%A9%E8%B4%A8%E5%87%86%E5%A4%87.md)
+  * [招考岗位解读](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%8B%9B%E8%80%83%E5%B2%97%E4%BD%8D%E8%A7%A3%E8%AF%BB.md)
+  * [忘记打准考证、准考证掉了、忘带了，怎么办](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%BF%98%E8%AE%B0%E6%89%93%E5%87%86%E8%80%83%E8%AF%81%E3%80%81%E5%87%86%E8%80%83%E8%AF%81%E6%8E%89%E4%BA%86%E3%80%81%E5%BF%98%E5%B8%A6%E4%BA%86%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E.md)
 
 * 更新issues
 
@@ -154,8 +154,7 @@ wiki 列表必看
   * [申论知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%94%B3%E8%AE%BA%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
 * 公考备考最佳实践
 
-  * 准备公考的思想建设、物质准备
-  * 公考备考概述
+  * [公考概述、思想建设以及物质准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0%E3%80%81%E6%80%9D%E6%83%B3%E5%BB%BA%E8%AE%BE%E4%BB%A5%E5%8F%8A%E7%89%A9%E8%B4%A8%E5%87%86%E5%A4%87.md)
   * 行测的最佳实践、注意事项
   * 申论的最佳实践、注意事项
   * 面试的最佳实践、注意事项
@@ -168,7 +167,7 @@ wiki 列表必看
 
   * 报考问题手册
 
-    * 招考岗位解读
+    * [招考岗位解读](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%8B%9B%E8%80%83%E5%B2%97%E4%BD%8D%E8%A7%A3%E8%AF%BB.md)
     * [国考、省考、事业单位招考、教师、军队文职的区别](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
   * 选岗问题手册
   * 行测问题手册
@@ -180,7 +179,7 @@ wiki 列表必看
   * 考察问题手册
   * 考试问题手册
 
-    * 忘记打准考证、准考证掉了、忘带了，怎么办
+    * [忘记打准考证、准考证掉了、忘带了，怎么办](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%BF%98%E8%AE%B0%E6%89%93%E5%87%86%E8%80%83%E8%AF%81%E3%80%81%E5%87%86%E8%80%83%E8%AF%81%E6%8E%89%E4%BA%86%E3%80%81%E5%BF%98%E5%B8%A6%E4%BA%86%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E.md)
   * 等等
 * 公考问答
 
