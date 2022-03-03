@@ -8,28 +8,32 @@
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
-**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) |
+**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) | [正文目录](#正文目录) |
 
 ---
 
 **公告：**
 
-上周，我们恢复了正常更新，这期间，又有7位朋友添加我们的微信，咨询公考、体制相关的问题。我们抽取有代表性的问题，发布在issues 上。
+上周，有3位朋友添加我们的微信，咨询即将到来的全国省考联考的报名、准备等问题。并没有什么具有代表性的新问题，都能在issuse 上找到对应的文章。
+
+在此，我们建议：想要进入体制内的新手朋友，首先请点击查看 quick start以及issues，让自己对公考有个大致的印象，如果自己的问题并没有解答，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。我们会在线及时解答。
 
 这次将更新如下内容：
 
 * README
 
-  * 更新“体制备考快速开始”、“体制生活深入了解”两个快速入手栏
-  * 新增“D2G项目”快速开始
+  * quick start ：新增WiKi、联系我们、正文目录
   * 日常维护更新
+
 * 更新文章
-  * [申论应试模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%94%B3%E8%AE%BA%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
 
-* 更新issuse
+  * 公考概述、思想建设以及物质准备
+  * 招考岗位解读
+  * 忘记打准考证、准考证掉了、忘带了，怎么办
 
-  * [国外学历学位，能不能报考](https://github.com/miss-mumu/developer2gwy/issues/18)
-  * [能不能先上岸，再考心仪岗位](https://github.com/miss-mumu/developer2gwy/issues/19)
+* 更新issues
+
+  * [是否需要建立一个微信交流群](https://github.com/miss-mumu/developer2gwy/issues/20)
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
