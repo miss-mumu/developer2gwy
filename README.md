@@ -6,7 +6,7 @@
 
 **体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) |
 
-**体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系]() |[核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
+**体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
 **D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) | [正文目录](#正文目录) |
 
@@ -27,8 +27,8 @@
   * 日常维护更新
 * 更新文章
 
-  * 编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等
-  * 体制内情况概述
+  * [编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%BC%96%E5%88%B6%E6%A6%82%E8%BF%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E7%BC%96%E3%80%81%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E5%8F%82%E5%85%AC%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E3%80%81%E4%BA%BA%E4%BA%8B%E4%BB%A3%E7%90%86%E3%80%81%E5%85%AC%E7%9B%8A%E5%B2%97%E4%BD%8D%E7%AD%89.md)
+  * [体制内情况概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%83%85%E5%86%B5%E6%A6%82%E8%BF%B0.md)
 
 我们通过大家的一些反馈意见，反思到G2D项目，长处或者优势应该是：项目有很多平凡、小厂、外包的程序员，**从零到上岸的亲身体验**、身处体制内的一手见闻，以及可以找朋友咨询招考政策方面的相关问题。
 
@@ -139,8 +139,8 @@ wiki 列表必看
 * [公考相关 100 词](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md")
 * [公考概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
 * [机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md")
-* 编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等
-* 体制内情况概述
+* [编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%BC%96%E5%88%B6%E6%A6%82%E8%BF%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E7%BC%96%E3%80%81%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E5%8F%82%E5%85%AC%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E3%80%81%E4%BA%BA%E4%BA%8B%E4%BB%A3%E7%90%86%E3%80%81%E5%85%AC%E7%9B%8A%E5%B2%97%E4%BD%8D%E7%AD%89.md)
+* [体制内情况概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%83%85%E5%86%B5%E6%A6%82%E8%BF%B0.md)
 * 工作环境概述
 * 工作内容概述
 * [工资福利待遇概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E7%BB%84%E6%88%90.md)
