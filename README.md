@@ -6,34 +6,37 @@
 
 **体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) |
 
-**体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
+**体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系]() |[核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
 **D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) | [正文目录](#正文目录) |
 
 ---
-
 **公告：**
 
-上周，有3位朋友添加我们的微信，咨询即将到来的全国省考联考的报名、准备等问题。并没有什么具有代表性的新问题，都能在issuse 上找到对应的文章。
+上周，只有2位朋友添加我们的微信，虽然添加人数少，但我们很开心，临近省考联考，看来大家都在认真备考。
 
-在此，我们建议：想要进入体制内的新手朋友，首先请点击查看 quick start以及issues，让自己对公考有个大致的印象，如果自己的问题并没有解答，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。我们会在线及时解答。
+上周，我们收到的问题反馈主要是：分享的课程资料哪里找？在这里，统一回复，所有的课程资料下载链接都在wiki里面，或者直接点击quick start 里面的[公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md)。
+
+我们发现，新关注的朋友，可能在快速入门D2G项目有点困难。在此，我们建议：首先请点击过一遍 quick start以及issues，对备考、体质生活、本项目的发展有个大致的认识。然后想要学习资料，请点击[公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) 。如果有自己个性问题，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。我们会在线及时解答。
 
 这次将更新如下内容：
 
 * README
 
-  * quick start ：新增WiKi、联系我们、正文目录
+  * quick start ：新增“人际关系”栏目
   * 日常维护更新
-
 * 更新文章
 
-  * [公考概述、思想建设以及物质准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0%E3%80%81%E6%80%9D%E6%83%B3%E5%BB%BA%E8%AE%BE%E4%BB%A5%E5%8F%8A%E7%89%A9%E8%B4%A8%E5%87%86%E5%A4%87.md)
-  * [招考岗位解读](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%8B%9B%E8%80%83%E5%B2%97%E4%BD%8D%E8%A7%A3%E8%AF%BB.md)
-  * [忘记打准考证、准考证掉了、忘带了，怎么办](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E5%BF%98%E8%AE%B0%E6%89%93%E5%87%86%E8%80%83%E8%AF%81%E3%80%81%E5%87%86%E8%80%83%E8%AF%81%E6%8E%89%E4%BA%86%E3%80%81%E5%BF%98%E5%B8%A6%E4%BA%86%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+  * 编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等
+  * 体制内情况概述
 
-* 更新issues
+我们通过大家的一些反馈意见，反思到G2D项目，长处或者优势应该是：项目有很多平凡、小厂、外包的程序员，**从零到上岸的亲身体验**、身处体制内的一手见闻，以及可以找朋友咨询招考政策方面的相关问题。
 
-  * [是否需要建立一个微信交流群](https://github.com/miss-mumu/developer2gwy/issues/20)
+我们的短处或者劣势，是：教大家上岸的硬知识（笔试中各种知识点）效率不高，讲不透彻。这是由于我们上岸的经历，都是八仙过海，各显神通。硬知识不像学霸那样，融会贯通，也没有学习的天赋。因此，并没有硬刚好岗位，基本算见缝插针上还不错的岗位。
+
+所以，接下来，我们会按照原计划，将目录里面的文章，慢慢更新完。然后专注于解决大家公考过程中，学习资源、备考非知识点问题、政策文件、选岗选地、体制疑问等问题。
+
+也会和大家，分享单位内大家普遍关注的问题和新闻，体质生活。
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
@@ -136,7 +139,7 @@ wiki 列表必看
 * [公考相关 100 词](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E7%9B%B8%E5%85%B3%20100%20%E8%AF%8D.md")
 * [公考概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
 * [机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md")
-* 编制概述：行政编、事业编、三支一扶、遴选、人事代理、公益岗位
+* 编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等
 * 体制内情况概述
 * 工作环境概述
 * 工作内容概述
