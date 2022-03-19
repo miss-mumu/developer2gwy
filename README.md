@@ -13,30 +13,38 @@
 ---
 **公告：**
 
-上周，只有2位朋友添加我们的微信，虽然添加人数少，但我们很开心，临近省考联考，看来大家都在认真备考。
+上周，有3位朋友添加我们的微信，但我们并没有交流，我们也没有主动打扰。我们只默默的存在联系人列表当中，一旦有所需要，联系我们，定会伸出援手，就像分别多年的好友，一旦想起，还在那儿，没走远
 
-上周，我们收到的问题反馈主要是：分享的课程资料哪里找？在这里，统一回复，所有的课程资料下载链接都在wiki里面，或者直接点击quick start 里面的[公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md)。
+全国省考联考，多个省份都因为疫情延后了，还没有延后的省份，大概率都会陆续出台延期考试通告。这对大家来说，有利有弊。利，有更多的时间准备。弊，心态的比拼开始了，谁要是能几年如一日，依旧保持不错的备考状态，谁就能笑到最后。因此，大家不要放松，请继续努力，不差这一个、两个月的时间。
 
-我们发现，新关注的朋友，可能在快速入门D2G项目有点困难。在此，我们建议：首先请点击过一遍 quick start以及issues，对备考、体质生活、本项目的发展有个大致的认识。然后想要学习资料，请点击[公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) 。如果有自己个性问题，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。我们会在线及时解答。
+上周，我们没收到问题反馈。
+
+但是我们回顾项目的发展，发现有很多的不足。尤其是，我们没发及时将大家所需的课程资料，及时的分享到每个关注项目的朋友。而且，最新最全的课程资料，受吴凡的控制，而他也在备考，并不方便时常向他索要。
+
+因此，后续，我们会做重大的更新，寻找一种方便高效的渠道，向大家，及时的分享最新、最全、最好的学习资料。
 
 这次将更新如下内容：
 
 * README
 
-  * quick start ：新增“人际关系”栏目
   * 日常维护更新
 * 更新文章
 
-  * [编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%BC%96%E5%88%B6%E6%A6%82%E8%BF%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E7%BC%96%E3%80%81%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E5%8F%82%E5%85%AC%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E3%80%81%E4%BA%BA%E4%BA%8B%E4%BB%A3%E7%90%86%E3%80%81%E5%85%AC%E7%9B%8A%E5%B2%97%E4%BD%8D%E7%AD%89.md)
-  * [体制内情况概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%83%85%E5%86%B5%E6%A6%82%E8%BF%B0.md)
-
-我们通过大家的一些反馈意见，反思到G2D项目，长处或者优势应该是：项目有很多平凡、小厂、外包的程序员，**从零到上岸的亲身体验**、身处体制内的一手见闻，以及可以找朋友咨询招考政策方面的相关问题。
-
-我们的短处或者劣势，是：教大家上岸的硬知识（笔试中各种知识点）效率不高，讲不透彻。这是由于我们上岸的经历，都是八仙过海，各显神通。硬知识不像学霸那样，融会贯通，也没有学习的天赋。因此，并没有硬刚好岗位，基本算见缝插针上还不错的岗位。
-
-所以，接下来，我们会按照原计划，将目录里面的文章，慢慢更新完。然后专注于解决大家公考过程中，学习资源、备考非知识点问题、政策文件、选岗选地、体制疑问等问题。
-
-也会和大家，分享单位内大家普遍关注的问题和新闻，体质生活。
+  * [工作环境概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md)
+  * [工作内容概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md)
+  * [晋升、职务、职级概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md)
+  * [人际关系概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md)
+  * [体制对普通女孩是真的不错-访谈概述]()
+* 更新报考问题
+  * [能不能先上岸，再考心仪岗位](https://github.com/miss-mumu/developer2gwy/issues/19)
+  * [国外学历学位，能不能报考](https://github.com/miss-mumu/developer2gwy/issues/18)
+  * [怎么选择合适的岗位？怎么避免进去以后996？现在公务员也是很卷吗？](https://github.com/miss-mumu/developer2gwy/issues/17)
+  * [公考是选择上岸难度较小的乡镇？还是继续考自己心仪的岗位？](https://github.com/miss-mumu/developer2gwy/issues/15)
+  * [是一毕业就进体制内，还是先工作？](https://github.com/miss-mumu/developer2gwy/issues/10)
+  * [在职人员，怎么平衡工作与备考？](https://github.com/miss-mumu/developer2gwy/issues/9)  
+* 行测的最佳实践、注意事项
+  * [常识怎么准备好？](https://github.com/miss-mumu/developer2gwy/issues/14)
+  * [行测碰到瓶颈（卡在 65 分左右、某一模块迟迟得不到提高），怎么办？](https://github.com/miss-mumu/developer2gwy/issues/13)
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
@@ -141,11 +149,11 @@ wiki 列表必看
 * [机关事业单位概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%9C%BA%E5%85%B3%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%A6%82%E8%BF%B0.md")
 * [编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%BC%96%E5%88%B6%E6%A6%82%E8%BF%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E7%BC%96%E3%80%81%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E5%8F%82%E5%85%AC%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E3%80%81%E4%BA%BA%E4%BA%8B%E4%BB%A3%E7%90%86%E3%80%81%E5%85%AC%E7%9B%8A%E5%B2%97%E4%BD%8D%E7%AD%89.md)
 * [体制内情况概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%83%85%E5%86%B5%E6%A6%82%E8%BF%B0.md)
-* 工作环境概述
-* 工作内容概述
+* [工作环境概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md)
+* [工作内容概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md)
 * [工资福利待遇概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E7%BB%84%E6%88%90.md)
-* 晋升、职务、职级概述
-* 人际关系概述
+* [晋升、职务、职级概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md)
+* [人际关系概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md)
 * [体制内是否能够做副业](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E5%81%9A%E5%89%AF%E4%B8%9A.md)
 * 等等
 
@@ -159,6 +167,8 @@ wiki 列表必看
 
   * [公考概述、思想建设以及物质准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0%E3%80%81%E6%80%9D%E6%83%B3%E5%BB%BA%E8%AE%BE%E4%BB%A5%E5%8F%8A%E7%89%A9%E8%B4%A8%E5%87%86%E5%A4%87.md)
   * 行测的最佳实践、注意事项
+    * [常识怎么准备好？](https://github.com/miss-mumu/developer2gwy/issues/14)
+    * [行测碰到瓶颈（卡在 65 分左右、某一模块迟迟得不到提高），怎么办？](https://github.com/miss-mumu/developer2gwy/issues/13)
   * 申论的最佳实践、注意事项
   * 面试的最佳实践、注意事项
   * 体能的最佳手册（针对公安等需要体侧岗位）、注意事项
@@ -172,6 +182,12 @@ wiki 列表必看
 
     * [招考岗位解读](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%8B%9B%E8%80%83%E5%B2%97%E4%BD%8D%E8%A7%A3%E8%AF%BB.md)
     * [国考、省考、事业单位招考、教师、军队文职的区别](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0.md")
+    * [能不能先上岸，再考心仪岗位](https://github.com/miss-mumu/developer2gwy/issues/19)
+    * [国外学历学位，能不能报考](https://github.com/miss-mumu/developer2gwy/issues/18)
+    * [怎么选择合适的岗位？怎么避免进去以后996？现在公务员也是很卷吗？](https://github.com/miss-mumu/developer2gwy/issues/17)
+    * [公考是选择上岸难度较小的乡镇？还是继续考自己心仪的岗位？](https://github.com/miss-mumu/developer2gwy/issues/15)
+    * [是一毕业就进体制内，还是先工作？](https://github.com/miss-mumu/developer2gwy/issues/10)
+    * [在职人员，怎么平衡工作与备考？](https://github.com/miss-mumu/developer2gwy/issues/9)  
   * 选岗问题手册
   * 行测问题手册
   * 申论问题手册
@@ -192,6 +208,7 @@ wiki 列表必看
   * [我参加公考好几年，还没有上岸，心态快崩了](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E6%88%91%E5%8F%82%E5%8A%A0%E5%85%AC%E8%80%83%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8A%E5%B2%B8%EF%BC%8C%E5%BF%83%E6%80%81%E5%BF%AB%E5%B4%A9%E4%BA%86.md")
   * [明明相爱，为什么会分开:借停更，谈借调问题](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%98%8E%E6%98%8E%E7%9B%B8%E7%88%B1%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%BC%80.md)
   * [D2G项目21年12月24日会议纪要](https://github.com/miss-mumu/developer2gwy/blob/main/doc/D2G%E9%A1%B9%E7%9B%AE21%E5%B9%B412%E6%9C%8824%E6%97%A5%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
+
   
 ### 体制工作生活访谈
 
