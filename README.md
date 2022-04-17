@@ -227,6 +227,10 @@ wiki 列表必看
 > 由于上次停更事件，我们剩余的访谈内容，将不在GitHub上分享。会选择一个合适的渠道，向大家公开。敬请期待。
 ## 捐赠明细
 
+[捐赠](https://github.com/miss-mumu/developer2gwy/blob/main/doc/img/Wechat.jpeg)
+
+显示不出来赞赏码，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)
+
 > 捐赠二维码主要用于资料众筹、奉献者的荣誉证书、非核心参与者奖励小红包等
 
 在这里，非常感谢以下捐赠人的无私捐赠，我们在此保证：**您们所有的捐赠都将用于项目本身，促进项目发展，帮助大家。**
