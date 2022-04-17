@@ -226,10 +226,9 @@ wiki 列表必看
 工作生活的真实性：访谈，是我们获取一手资料、真实的心得体会、最新信息的重要渠道，也是体制工作与生活内容真实性的重要保障。但由于人客观存在的认知偏差与趋利避害的天性，一些敏感内容是无法获取，也不便获取，更不应获取。所以，这部分我们只能保障发布 **内容本身的客观真实性** ，即 **不做美化、加工、曲解** 。但，我们会屏蔽一些**主观怨天尤人、发牢骚、负面情绪**的部分，这有违与我们初心与目的，也不适合大家备考期间了解。[附加阅读](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
 > 由于上次停更事件，我们剩余的访谈内容，将不在GitHub上分享。会选择一个合适的渠道，向大家公开。敬请期待。
 ## 捐赠明细
+<img src="https://gitee.com/miss-mu-mu/developer2gwy/raw/main/doc/img/Wechat.jpeg" width="30%">
 
-[捐赠](https://github.com/miss-mumu/developer2gwy/blob/main/doc/img/Wechat.jpeg)
-
-显示不出来赞赏码，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)
+其他捐赠方式，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)
 
 > 捐赠二维码主要用于资料众筹、奉献者的荣誉证书、非核心参与者奖励小红包等
 
