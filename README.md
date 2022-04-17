@@ -8,19 +8,41 @@
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
-**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) | [正文目录](#正文目录) |
+**D2G项目**：[项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | [项目更新周报](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5) | [项目必看](#项目必看) | [正文目录](#正文目录) | [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC) |
 
 ---
 **公告：**
 
-上周，我们又收到5位朋友添加微信的请求，清一色的询问培训资料。在这里非常的抱歉，我们只对急需的朋友提供所需的部分资料。原因，和上周一样，资料原本都由吴凡提供，而他现在全身心的备考中（他的压力也挺大的，全职备考，几年没上岸）。
+上周，我们收到9位朋友的添加微信请求，和他们沟通交流了关于公考备考、体制生活、选岗选地的事情，也分享了他们所需的资料。通过交流，我们也收获了不少。再次感谢添加微信的朋友，也请大家，如果对公考不清楚、不明白的地方，直接联系我们，会比较方便直接。（Quick start有我们的联系方式）
 
-对此，我们决定寻求一个合适的公考社区，在上面分享我们的心得体会、备考资料、课程视频。上周，我们已经开始调研哪个社区好，利用节假日，测试这个社区是否满足我们的要求。
+通过他们的反馈，G2D项目，存在如下的不足：
 
-在此，请急需资料的朋友，添加我们的微信，我们一对一的发放。请不急的朋友，请先过一遍D2G项目。有需要交流群的朋友，请在issues中，是否建群的问题下，留言支持或者反对，我们会根据社区反馈考虑建群。
+* 某些文章写的不太全，很多都写了一半，便没有更新
+* 资料分享失效
+* 某些内容并没有彻底解决问题，看完还是不知所然
 
-最后，我们收到了很多朋友的鼓励，回顾D2G的项目至今，我们很感恩大家的关注和反馈。再次向大家承诺不会烂尾和放弃的。也请大家多多关注，多多star，多多反馈。我们会根据大家的需求，来逐步完善D2G的内容，以便更好的帮助上大家，早日岸上见。
+对此，我们向大家道歉，通过反思，的确存在上述的不足，也有一定的原因。
 
+* 文章不全以及文章不深刻的问题，例如 Quick start 点开，里面便有许多没有完成。主要原因是因为，有些内容，如果不提出具体问题，我们也不知如何入手，更没法深入到细节当中回答，问题总不能设想出来。
+* 有些问题，尤其是涉及到体制内的问题，经历过上次停更事件后，还是不太方便公开写出来。所以还是欢迎大家在添加微信交流。
+* 资料分享失效问题，还是因为提供资料的吴凡多年没有考上，压力层层传导。实在不好意思时不时打扰他要资料（对此，我们只能响应捐赠者的资料需求）。因此，我们初步设想，使用捐赠款购买最新最全的资料，分享给捐赠者（[捐赠明细](#捐赠明细)）们（[捐赠福利](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)）。
+* 非捐赠者，今年最新的资料会10月份，公开给所有的人。往年积累的所有资料，会在一个合适的平台，集中分享。（最新与往年的区别，主要在于例题。其他知识点，几乎没变化）
+
+上周，我们回答了5个issue：
+- [请问你们当初上岸职位的报录比和上岸笔试、面试分数是多少？](https://github.com/miss-mumu/developer2gwy/issues/26)
+- [各岗位薪资待遇](https://github.com/miss-mumu/developer2gwy/issues/25)
+- [问下 政审 怎么先自己 自查下](https://github.com/miss-mumu/developer2gwy/issues/24)
+- [非全日制本科 有学位事业编 公务员选择性是不是会少很多](https://github.com/miss-mumu/developer2gwy/issues/22)
+- [行测 申论 共基 职测 综应 分别对应什么](https://github.com/miss-mumu/developer2gwy/issues/23)
+
+接下来，我们的主要精力还是会放在：
+- issues 问题的回答
+- 添加微信朋友的回复
+- [建立微信分享交流群](https://github.com/miss-mumu/developer2gwy/issues/20)
+- 购买最新课程资料（还请有余力的朋友捐赠[帮忙](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)）
+- 建设一个合适、自管理、开放、温暖的公考交流分享、互帮互助、真实可信的社区。将会在那里通过多种方式，更加直接便捷高效的帮助到大家。
+
+最后，群众的力量是无穷的，希望大家能踊跃参与到项目中来，提问、给出建议、star、fork、向周围同学朋友推荐。谢谢大家！
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
 ---
@@ -170,6 +192,7 @@ wiki 列表必看
   * 体能问题手册
   * 体检问题手册
   * 政审问题手册
+    * [问下 政审 怎么先自己 自查下](https://github.com/miss-mumu/developer2gwy/issues/24)
   * 考察问题手册
   * 考试问题手册
 
@@ -194,16 +217,17 @@ wiki 列表必看
 * 体制生活问答
 
   * [体制内的薪资待遇好吗？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md")
+  * [各岗位薪资待遇](https://github.com/miss-mumu/developer2gwy/issues/25)
 
 ## 真实性保证
 
 备考资料的真实性：我们分享的每一份资料，都要经过团队成员的查验其来源、内容。大概率能保证适用于备考与真实性。我们分享的每一份教程，都是由吴凡购买，因为他土豪，且在备考，喜囤积各种培训机构材料（希望有能力的朋友，能购买官方渠道课程）。
 
 工作生活的真实性：访谈，是我们获取一手资料、真实的心得体会、最新信息的重要渠道，也是体制工作与生活内容真实性的重要保障。但由于人客观存在的认知偏差与趋利避害的天性，一些敏感内容是无法获取，也不便获取，更不应获取。所以，这部分我们只能保障发布 **内容本身的客观真实性** ，即 **不做美化、加工、曲解** 。但，我们会屏蔽一些**主观怨天尤人、发牢骚、负面情绪**的部分，这有违与我们初心与目的，也不适合大家备考期间了解。[附加阅读](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
-
+> 由于上次停更事件，我们剩余的访谈内容，将不在GitHub上分享。会选择一个合适的渠道，向大家公开。敬请期待。
 ## 捐赠明细
 
-> 捐赠二维码，等项目完成 51%，再附上。主要用于资料众筹、参与人员的荣誉证书筹等
+> 捐赠二维码主要用于资料众筹、奉献者的荣誉证书、非核心参与者奖励小红包等
 
 在这里，非常感谢以下捐赠人的无私捐赠，我们在此保证：**您们所有的捐赠都将用于项目本身，促进项目发展，帮助大家。**
 
@@ -221,6 +245,8 @@ wiki 列表必看
 | 2021.12 | Zoew***      | 暂未使用 |
 | 2021.12 | Little lin***    | 暂未使用 |
 | 2021.12 |潇潇***      | 暂未使用 |
+ 共计 |    | 3** |
+
 
 ## license
 
