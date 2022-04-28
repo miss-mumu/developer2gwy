@@ -46,9 +46,11 @@
 
 微信群初步决定在五一后建立，从上个星期加入到计划，我们一直在走流程，主要是询问相关职能科室的朋友，这个事情能不能做，会不会有风险。
 
-微信群建立前，我们会向添加微信的各位，发送统一消息，确定是否愿意加群，回复才会拉人进群。
+微信群建立前，我们会向添加微信的各位，发送统一消息，询问是否愿意加群，回复才会拉人进群。
 
 暂不考虑公开群二维码，我们希望加群的人都是热爱学习，决定进入体制内的同好们，因此，想要加群，请[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)
+
+最后，请大家多多参与项目，star fork watch 三连一波。也请大家向亲朋好友推荐推荐，谢谢！
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
@@ -175,10 +177,10 @@ wiki 列表必看
     * [行测碰到瓶颈（卡在 65 分左右、某一模块迟迟得不到提高），怎么办？](https://github.com/miss-mumu/developer2gwy/issues/13)
   * 申论的最佳实践、注意事项
   * 面试的最佳实践、注意事项
-  * 体能的最佳手册（针对公安等需要体侧岗位）、注意事项
-  * 体检的最佳实践、注意事项
-  * 政审的最佳实践、注意事项
-  * 考察的最佳实践、注意事项
+  * [体能的最佳手册（针对公安等需要体侧岗位）、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E8%83%BD%E7%9A%84%E6%9C%80%E4%BD%B3%E6%89%8B%E5%86%8C%EF%BC%88%E9%92%88%E5%AF%B9%E5%85%AC%E5%AE%89%E7%AD%89%E9%9C%80%E8%A6%81%E4%BD%93%E4%BE%A7%E5%B2%97%E4%BD%8D%EF%BC%89%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+  * [体检的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E6%A3%80%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+  * [政审的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%94%BF%E5%AE%A1%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+  * [考察的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%80%83%E5%AF%9F%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
   * 等等
 * 公考问题手册（欢迎大家在 issue 或者添加微信提问）
 
