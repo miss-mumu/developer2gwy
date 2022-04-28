@@ -21,12 +21,12 @@
 
 这周，我们更新如下内容（只有概述，具体问题，请有相关疑问的朋友到issues 提问，及时回复解答）：
 
-* 体能的最佳手册（针对公安等需要体侧岗位）、注意事项
-* 体检的最佳实践、注意事项
-* 政审的最佳实践、注意事项
+* [体能的最佳手册（针对公安等需要体侧岗位）、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E8%83%BD%E7%9A%84%E6%9C%80%E4%BD%B3%E6%89%8B%E5%86%8C%EF%BC%88%E9%92%88%E5%AF%B9%E5%85%AC%E5%AE%89%E7%AD%89%E9%9C%80%E8%A6%81%E4%BD%93%E4%BE%A7%E5%B2%97%E4%BD%8D%EF%BC%89%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+* [体检的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E6%A3%80%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+* [政审的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E6%94%BF%E5%AE%A1%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
 
   * [问下 政审 怎么先自己 自查下(可能想太多 但是先自查下)](https://github.com/miss-mumu/developer2gwy/issues/24)
-* 考察的最佳实践、注意事项
+* [考察的最佳实践、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%80%83%E5%AF%9F%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
 
 **关于分享的资源失效**：
 
@@ -255,6 +255,8 @@ wiki 列表必看
 | 2021.12 | Zoew***      | 暂未使用 |
 | 2021.12 | Little lin***    | 暂未使用 |
 | 2021.12 |潇潇***      | 暂未使用 |
+| 2022.04 |看不见的阿卡林***      | 暂未使用 |
+| 2022.04 |李福安***      | 暂未使用 |
  共计 |    | 3** |
 
 
