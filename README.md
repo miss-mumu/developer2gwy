@@ -20,7 +20,7 @@
 
 在此，我们开放微信交流群，请大家自行扫码进入。扫码捐赠的朋友，请添加我们的微信，或者备注留下微信号，我们会拉你进群。
 
-<img src="https://gitee.com/miss-mu-mu/developer2gwy/raw/main/img/6.jpeg" width="30%">
+<img src="https://gitee.com/miss-mu-mu/developer2gwy/raw/main/img/6.png" width="30%">
 
 上周五一期间，我们添加了3位朋友的微信，基本上是询问备考课程资料的事情。对资料链接的失效，和大家深表歉意。之前说五一后会将资料迁移到新平台上进行发布。后来由于某些原因，进度延后。对此，有需要资料的朋友，可以扫码进群或者[添加我们的微信](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)，提问索取。
 
