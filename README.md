@@ -3,7 +3,7 @@
 
 ## Quick start
 
-**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) |
+**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) | [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
@@ -12,29 +12,23 @@
 ---
 **公告：**
 
-上周，我们依据[是否要建立一个微信交流群](https://github.com/miss-mumu/developer2gwy/issues/20)的issues反馈，建立了微信交流群以及捐赠者交流群。
+[上周周报存档](https://github.com/miss-mumu/developer2gwy/wiki/D2G%E5%91%A8%E6%8A%A5)
 
-微信交流群，主要是用于将关注项目志同道合的朋友们聚集在一起，交流分享各自的心得想法，聊天放松。我们也会在群里，不定时的回复大家提出的问题，以及分享一些资料。
+上周，我们建立并公开了微信分享交流群，从最初的60来人，一周的时候，增加到100号人。可是star数，却只增加20左右，这让我们哭笑不得。
 
-捐赠者VIP群，面对的是已经捐赠的朋友，我们一直将每个捐赠者都看做为项目的重要参与者。因此，除了[捐赠者福利](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)以外，还会沟通交流一些项目、生活、体制等问题。
+上周，我们每天在群里回答群友的各种问题，并分享群友所需要的浙江、江苏、联考、山东等备考课程资料。
 
-在此，我们开放微信交流群，请大家自行扫码进入。扫码捐赠的朋友，请添加我们的微信，或者备注留下微信号，我们会拉你进群。
+上周，我们收到反馈，大多都是需要课程资料的。并且回答了一个issues：[好像分享的链接已经过期了 ](https://github.com/miss-mumu/developer2gwy/issues/29)，为此，我们一周的时间投入到分享渠道的建设当中,预计下周就能初见成效。为此，我们为捐赠者准备了捐赠者账号（项目上线前，无论多少金额的捐赠，都将获得捐赠者账号）。
 
-<img src="https://gitee.com/miss-mu-mu/developer2gwy/raw/main/img/6.png" width="30%">
+捐赠者账号能做什么？我们只能透露一点：如果你正在备考公务员，或者是公考小白，捐赠者账号绝对是物有所值的（无论是[捐赠者福利](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)、课程资源、还是备考服务，都绝对值）。
 
-上周五一期间，我们添加了3位朋友的微信，基本上是询问备考课程资料的事情。对资料链接的失效，和大家深表歉意。之前说五一后会将资料迁移到新平台上进行发布。后来由于某些原因，进度延后。对此，有需要资料的朋友，可以扫码进群或者[添加我们的微信](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)，提问索取。
+这周，我们将暂停微信扫码，改为[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)，添加微信，我们拉你进群。
 
-接下来项目进度的说明：
+微信交流群是做什么的？
 
-* 开始运营维护微信群
-* 继续投入资源交流社区的相关工作
-* 接续从与大家的反馈中，挖掘公考问题。回答大家的疑难杂症，提供我们力所能及的帮助
+主要是用于将关注项目志同道合的朋友们聚集在一起，交流分享各自的心得想法，在业余的时候聊天放松一下。我们也会在群里，不定时的回复大家提出的问题，以及分享一些资料。
 
-** 重要 **
-
-我们收到部分捐赠朋友，以及大部分添加联系方式朋友的反馈，对于2023年度最新课程资料是有急迫的需求，时不待我。
-
-为此，我们开[【重要】关于2023年度公考资源购买进度公示](https://github.com/miss-mumu/developer2gwy/issues/28) 的issues 接受大家监督，并且根据大家的反馈决定是否购买最新的课程资料，请大家踊跃参与。
+然后，我们开始了新一轮备考资料捐赠采购，这里需要大家参与进来，[【重要】关于2023年度公考资源购买进度公示](https://github.com/miss-mumu/developer2gwy/issues/28) 的issues 投票你所需要的课程资料，截止到这周，若没有回复，便close issues ，我们自行决定。
 
 最后麻烦大家多多参与项目，star fork watch 三连一波。也请大家向亲朋好友推荐推荐，谢谢！
 
