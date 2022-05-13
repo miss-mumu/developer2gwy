@@ -3,7 +3,7 @@
 
 ## Quick start
 
-**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) | [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99)
+**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) | [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
@@ -30,7 +30,9 @@
 
 然后，我们开始了新一轮备考资料捐赠采购，这里需要大家参与进来，[【重要】关于2023年度公考资源购买进度公示](https://github.com/miss-mumu/developer2gwy/issues/28) 的issues 投票你所需要的课程资料，截止到这周，若没有回复，便close issues ，我们自行决定。
 
-最后麻烦大家多多参与项目，star fork watch 三连一波。也请大家向亲朋好友推荐推荐，谢谢！
+最后麻烦大家多多参与项目，提出自己的疑问。
+
+也请大家多多star，你的轻轻一点，都是我们前进中强大的动力，谢谢！
 
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请添加我们的微信或者在项目中留言，我们会竭尽自己所能，帮大家。
 
