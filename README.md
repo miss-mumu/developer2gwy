@@ -12,6 +12,8 @@
 ---
 **公告：**
 
+> 紧急通知，请 用户名位 pooy 朋友，非常感谢你的pull requests。请添加我们的微信
+
 [周报存档](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5)
 
 上周，我们主要完成如下工作：
