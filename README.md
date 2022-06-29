@@ -3,7 +3,7 @@
 
 ## 👋Quick start
 
-**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.md) | [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜
+**体制备考**：[公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜
 
 **体制生活**：[工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
 
@@ -149,7 +149,7 @@ wiki 列表必看
 * [上岸整套流程概述](https://www.gongkaoshequ.com/thread/6)
 * [公考相关100词](https://www.gongkaoshequ.com/thread/157)
 * [公考概述](https://www.gongkaoshequ.com/thread/8)
-* [[机关事业单位概述](https://www.gongkaoshequ.com/thread/158)
+* [机关事业单位概述](https://www.gongkaoshequ.com/thread/158)
 * [编制概述：行政编、事业编、参公事业编、三支一扶、人事代理、公益岗位等](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%BC%96%E5%88%B6%E6%A6%82%E8%BF%B0%EF%BC%9A%E8%A1%8C%E6%94%BF%E7%BC%96%E3%80%81%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E5%8F%82%E5%85%AC%E4%BA%8B%E4%B8%9A%E7%BC%96%E3%80%81%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E3%80%81%E4%BA%BA%E4%BA%8B%E4%BB%A3%E7%90%86%E3%80%81%E5%85%AC%E7%9B%8A%E5%B2%97%E4%BD%8D%E7%AD%89.md)
 * [体制内情况概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%83%85%E5%86%B5%E6%A6%82%E8%BF%B0.md)
 * [工作环境概述](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md)
@@ -164,14 +164,15 @@ wiki 列表必看
 
 * 公考知识汇总
 
-  * [行测知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E8%A1%8C%E6%B5%8B%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md")
-  * [申论知识模块清单](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E7%94%B3%E8%AE%BA%E7%9F%A5%E8%AF%86%E6%A8%A1%E5%9D%97%E6%B8%85%E5%8D%95.md)
+  * [行测知识模块清单](https://www.gongkaoshequ.com/thread/169)
+  * [申论知识模块清单](https://www.gongkaoshequ.com/thread/171)
 * 公考备考最佳实践
 
   * [公考概述、思想建设以及物质准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E5%85%AC%E8%80%83%E6%A6%82%E8%BF%B0%E3%80%81%E6%80%9D%E6%83%B3%E5%BB%BA%E8%AE%BE%E4%BB%A5%E5%8F%8A%E7%89%A9%E8%B4%A8%E5%87%86%E5%A4%87.md)
   * 行测的最佳实践、注意事项
     * [常识怎么准备好？](https://github.com/miss-mumu/developer2gwy/issues/14)
     * [行测碰到瓶颈（卡在 65 分左右、某一模块迟迟得不到提高），怎么办？](https://github.com/miss-mumu/developer2gwy/issues/13)
+    * [行测学习感受自测](https://www.gongkaoshequ.com/thread/170)
   * 申论的最佳实践、注意事项
   * 面试的最佳实践、注意事项
   * [体能的最佳手册（针对公安等需要体侧岗位）、注意事项](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E8%83%BD%E7%9A%84%E6%9C%80%E4%BD%B3%E6%89%8B%E5%86%8C%EF%BC%88%E9%92%88%E5%AF%B9%E5%85%AC%E5%AE%89%E7%AD%89%E9%9C%80%E8%A6%81%E4%BD%93%E4%BE%A7%E5%B2%97%E4%BD%8D%EF%BC%89%E3%80%81%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
