@@ -1,4 +1,7 @@
 # <p align="center">🚀 developer2gwy</p>
+
+<p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/miss-mumu/developer2gwy?style=social"> 🍔 <img alt="GitHub forks" src="https://img.shields.io/github/forks/miss-mumu/developer2gwy?style=social"> 🍕 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/miss-mumu/developer2gwy?style=social"></p>
+
 > 一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册
 
 ## 👋Quick start
