@@ -1,4 +1,4 @@
-# 🚀 developer2gwy
+# <center>🚀 developer2gwy</center>
 > 一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册
 
 ## 👋Quick start
@@ -52,25 +52,11 @@
 > 比起输出知识或者内容，帮助大家达成目的更为重要！因此，如果你在公考之路上，有彷徨、有犹豫、有问题、有难点、有痛苦，请请[点击扫码加群](https://www.gongkaoshequ.com/thread/159)或者在[公考社区](https://www.gongkaoshequ.com)发贴，我们会竭尽自己所能，帮大家。
 
 ---
-## **程序员到公务员：从入门到上岸。**
+## 📖程序员到公务员：从入门到上岸
 
 > 做 Java 后端的张华考上了信息中心，做前端的李萍考上了医保局，我还在公司敲着 CURD 业务代码，瞟了一眼大楼下“格子衫双肩包”在深夜路灯边拉长的影子，回头看了眼朋友圈里面张华、李萍就着夕阳、在公园草地上追着狗，大笑。嗯，我们都有光明的前途。
 
-[为什么](#为什么)
-
-[教程简介](#教程简介)
-
-[团队简介](#团队简介)
-
-[项目必看](#项目必看)
-
-[正文目录](#正文目录)
-
-[真实性保证](#真实性保证)
-
-[捐赠明细](#捐赠明细)
-
-[license](#license)
+❓ [为什么](#为什么) | 📑 [教程简介](#教程简介) | 👩‍💻 [团队简介](#团队简介) | 🤟 [项目必看](#项目必看) | 🔖 [正文目录](#正文目录) | 🎟️ [真实性保证](#真实性保证) | 📒 [捐赠明细](#捐赠明细) | 📄 [license](#license)
 
 ## 为什么
 
@@ -90,7 +76,7 @@
 
 > 宇宙的尽头就是考编
 
-## 教程简介
+## 📑 教程简介
 
 本教程记录分享一群前 developer，现人民公仆的上岸、体制内生活以及心路历程，总结出一套在国考、省考、事业单位招考、教师、军队文职（这个暂时还没有，希望能有小伙伴踊跃参与）等考试（统称公考）方面的最佳操作实践（不包含知识点的讲解，这点培训机构比我们更专业）
 
@@ -120,7 +106,7 @@
 * 吴凡：他们说给我这个“别称”的时候，我极为反对。这和我完全不一样，显的我很渣（真老实人）。UI 设计（他们说搞艺术的，得配这个别称），之前和韩梅梅一个公司，老乡（同一个省），Apple 全家桶收集者（原本齐了，AirPods 被某人抢走，哎），现在 soho，大部分时间备考（是的，我还没考上），业余接几个单子，偶尔旅游放松。
 * 兴邦（新成员）：00后小年轻，喜欢rap、跳、唱（工作中是个安静的人），自嘲“精神体制人”（在体制工作，还没有编制），经常被张华拉着说：教你写代码呀。偶尔被李雷吐槽：净买垃圾股。下班后，满脸写着“我要暴富”，和上述几个“中年人”聊天，总是会被明里暗里的小教育，所以，我一直喊他们“张厅”、“李处”、“X书记”。但李姐姐，我是真心喜欢，时不时叫我去她家里吃饭，还会带点零食我。微笑比心.jpg
 
-## 🧠 项目必看
+## 🤟 项目必看
 
 issues 必看：
 
@@ -134,14 +120,13 @@ issues 必看：
 
 wiki 列表必看
 
-* [资料分享列表](https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB%E5%88%97%E8%A1%A8")
-* [备考必备网站及应用](https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%A4%87%E8%80%83%E5%BF%85%E5%A4%87%E7%BD%91%E7%AB%99%E5%8F%8A%E5%BA%94%E7%94%A8")
-* [分享培训机构课程列表（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89 "https://github.com/miss-mumu/developer2gwy/wiki/%E5%88%86%E4%BA%AB%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E8%AF%BE%E7%A8%8B%E5%88%97%E8%A1%A8%EF%BC%88%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%89")
+* [资料分享列表](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0)
+* [备考必备网站及应用](https://www.gongkaoshequ.com/thread/168)
 * [捐赠规则](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99 "https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99")
 * [隐私保护](https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4 "https://github.com/miss-mumu/developer2gwy/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4")
 * [薪资福利待遇分享（测试阶段）](https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB "https://github.com/miss-mumu/developer2gwy/wiki/%E8%96%AA%E8%B5%84%E7%A6%8F%E5%88%A9%E5%BE%85%E9%81%87%E5%88%86%E4%BA%AB")
 
-## 🔗 正文目录
+## 🔖 正文目录
 
 ### ⚡️ 概述
 
@@ -160,7 +145,7 @@ wiki 列表必看
 * [体制内是否能够做副业](https://github.com/miss-mumu/developer2gwy/blob/main/doc/%E4%BD%93%E5%88%B6%E5%86%85%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E5%81%9A%E5%89%AF%E4%B8%9A.md)
 * 等等
 
-### 实践
+### 🏷️实践
 
 * 公考知识汇总
 
@@ -215,7 +200,7 @@ wiki 列表必看
   * [D2G项目21年12月24日会议纪要](https://github.com/miss-mumu/developer2gwy/blob/main/doc/D2G%E9%A1%B9%E7%9B%AE21%E5%B9%B412%E6%9C%8824%E6%97%A5%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)
 
   
-### 体制工作生活访谈
+### 🏷️体制工作生活访谈
 
 * 上岸经历访谈
 
@@ -226,14 +211,14 @@ wiki 列表必看
   * [体制内的薪资待遇好吗？](https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md "https://github.com/miss-mumu/developer2gwy/blob/main/doc/question/%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87%E5%A5%BD%E5%90%97%EF%BC%9F.md")
   * [各岗位薪资待遇](https://github.com/miss-mumu/developer2gwy/issues/25)
 
-## 真实性保证
+## 🎟️ 真实性保证
 
 备考资料的真实性：我们分享的每一份资料，都要经过团队成员的查验其来源、内容。大概率能保证适用于备考与真实性。我们分享的每一份教程，都是由吴凡购买，因为他土豪，且在备考，喜囤积各种培训机构材料（希望有能力的朋友，能购买官方渠道课程）。
 
 工作生活的真实性：访谈，是我们获取一手资料、真实的心得体会、最新信息的重要渠道，也是体制工作与生活内容真实性的重要保障。但由于人客观存在的认知偏差与趋利避害的天性，一些敏感内容是无法获取，也不便获取，更不应获取。所以，这部分我们只能保障发布 **内容本身的客观真实性** ，即 **不做美化、加工、曲解** 。但，我们会屏蔽一些**主观怨天尤人、发牢骚、负面情绪**的部分，这有违与我们初心与目的，也不适合大家备考期间了解。[附加阅读](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
 > 由于上次停更事件，我们剩余的访谈内容，将不在GitHub上分享。会选择一个合适的渠道，向大家公开。敬请期待。
-## 捐赠明细
+## 📒 捐赠明细
 详情请点击[捐赠明细](https://https://www.gongkaoshequ.com/thread/65)
-## license
+## 📄 license
 
 本库所有内容，采用 CC-BY-NC-SA 协议，即“创作共用-署名-非商业性-相同方式共享”协议。
