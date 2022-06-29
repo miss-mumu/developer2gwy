@@ -1,4 +1,4 @@
-# <center>🚀 developer2gwy</center>
+# <p align="center">🚀 developer2gwy</p>
 > 一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册
 
 ## 👋Quick start
