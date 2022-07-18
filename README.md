@@ -10,11 +10,11 @@
 
 ---
 
-**体制备考**：🐻‍❄️ [公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  🦫 [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | 🐾 [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | 🦘 [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜
+**体制备考**：<p align="center">  🐻‍❄️ [公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  🦫 [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | 🐾 [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | 🦘 [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜</p>
 
-**体制生活**：🦦 [工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | 🦥 [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | 🐿️ [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | 🐇 [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | 🦌 [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |
+**体制生活**：<p align="center">  🦦 [工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | 🦥 [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | 🐿️ [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | 🐇 [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | 🦌 [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |</p>
 
-**D2G项目**：🦩 [项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | 🦉 [项目更新周报](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5) | 🕊️ [项目必看](#项目必看) | 🐝 [正文目录](#正文目录) | 🤙 [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC) |
+**D2G项目**：<p align="center"> 🦩 [项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | 🦉 [项目更新周报](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5) | 🕊️ [项目必看](#项目必看) | 🐝 [正文目录](#正文目录) | 🤙 [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)</p>
 
 ---
 **公告：**
@@ -23,7 +23,7 @@
 
 在公休期间，我们也例行的聚会，聊下最近的新闻、聊聊各自单位的情况和生活、聊聊D2G项目。在此，根据聊天记录作出如下更新：
 - [D2G项目的初心回顾、项目能解决大家什么痛点，提供什么价值](https://www.gongkaoshequ.com/thread/190)
-- 从一份举报信访件谈谈体制内金钱观
+- [从一份举报信访件谈谈体制内金钱观](https://www.gongkaoshequ.com/thread/192)
 
 除上述意外，我们使用捐赠款，购买了最新最全的资料。已经在社区更新了23年最新最全的国考备考资料，包括主要的机构课程、讲义、笔记、知识点汇总、真题、练习题、模考等，请捐赠者下载备考。
 
@@ -40,7 +40,7 @@
 
 > 做 Java 后端的张华考上了信息中心，做前端的李萍考上了医保局，我还在公司敲着 CURD 业务代码，瞟了一眼大楼下“格子衫双肩包”在深夜路灯边拉长的影子，回头看了眼朋友圈里面张华、李萍就着夕阳、在公园草地上追着狗，大笑。嗯，我们都有光明的前途。
 
-## 为什么
+## ❓ 为什么
 
 **为什么会发起这个项目？**
 
