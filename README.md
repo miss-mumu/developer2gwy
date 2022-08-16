@@ -6,15 +6,16 @@
 
 ## 👋Quick start
 
-❓ [为什么](#-为什么) | 📑 [教程简介](#-教程简介) | 👩‍💻 [团队简介](#-团队简介) | 🤟 [项目必看](#-项目必看) | 🔖 [正文目录](#-正文目录) | 🎟️ [真实性保证](#-真实性保证)
+❓ [为什么](#-为什么) | 📑 [教程简介](#-教程简介) | 👩‍💻 [团队简介](#-团队简介) | 🤟 [项目必看](#-项目必看) | 🔖 [正文目录](#-正文目录) | [体制问答](https://www.gongkaoshequ.com/cate/4_38_21_23_22/seq/0)
 
 ---
 
-**体制备考**：<p align="center">  🐻‍❄️ [公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  🦫 [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | 🐾 [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | 🦘 [我要捐赠](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) ｜</p>
+**体制备考**：<p align="center">  🐻‍❄️ [公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  🦫 [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | 🐾 [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | 🦮 [应用APP推荐](https://www.gongkaoshequ.com/thread/168) | 🦘 [考公全程服务](https://github.com/miss-mumu/developer2gwy/wiki/%E6%8D%90%E8%B5%A0%E8%A7%84%E5%88%99) </p>
 
-**体制生活**：<p align="center">  🦦 [工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | 🦥 [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | 🐿️ [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | 🐇 [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | 🦌 [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) |</p>
+**体制生活**：<p align="center">  🦦 [工作环境](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E7%8E%AF%E5%A2%83.md) | 🦥 [工作内容](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9.md) | 🐿️ [晋升路径](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%99%8B%E5%8D%87%E8%B7%AF%E5%BE%84.md) | 🐇 [人际关系](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB.md) | 🦌 [核心竞争力](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B.md) 
+| 🐥 [薪资待遇]()</p>
 
-**D2G项目**：<p align="center"> 🦩 [项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | 🦉 [项目更新周报](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5) | 🕊️ [项目必看](#项目必看) | 🐝 [正文目录](#正文目录) | 🤙 [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)</p>
+**D2G项目**：<p align="center"> 🦩 [项目愿景](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md) | 🦉 [项目更新周报](https://www.gongkaoshequ.com/search?keyword=D2G%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%8A%A5) | 🕊️ [项目必看](#-项目必看) | 🐝 [正文目录](#-正文目录) | 🤙 [联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)</p>
 
 ---
 **公告：**
@@ -29,9 +30,9 @@
 - [面试的最佳实践、注意事项](https://www.gongkaoshequ.com/thread/211)
 - 申论的最佳实践、注意事项
 - 面试问题手册
-  - 面试紧张怎么办？
-  - 面试考场上大脑一片空白怎么办？
-  - 面试怎么入门、提高？
+  - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
+  - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
+  - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
   - 面试考官评价标准？
 
 更新如下内容：
@@ -40,7 +41,7 @@
 下周计划：
 - 制作行测、申论、面试的roadmap
 
-> 比起输出知识或者内容，帮助大家上岸更为重要！如果你在公考之路上，有彷徨、有犹豫、有问题、少资料、少咨询、缺计划、缺方法清[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)或者在[公考社区](https://www.gongkaoshequ.com)发贴，我们竭尽所能，帮大家。
+> 比起输出知识或者内容，陪伴大家上岸更为重要！如果你在公考之路上，有彷徨、有犹豫、有问题、少资料、少咨询、缺计划、缺方法清[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)或者在[公考社区](https://www.gongkaoshequ.com)发贴，我们竭尽所能，帮大家。
 
 ---
 ## 📖程序员到公务员：从入门到上岸
@@ -101,13 +102,13 @@
 
 issues 必看：
 
-* [D2G 项目的初心以及真实目的？](https://github.com/miss-mumu/developer2gwy/issues/3 "https://github.com/miss-mumu/developer2gwy/issues/3")
-* [如何保证内容的真实可靠性？](https://github.com/miss-mumu/developer2gwy/issues/5 "https://github.com/miss-mumu/developer2gwy/issues/5")
-* [更新进度为什么这么慢？](https://github.com/miss-mumu/developer2gwy/issues/4 "https://github.com/miss-mumu/developer2gwy/issues/4")
-* [如何分享培训机构课程？收费吗？是最新的吗？](https://github.com/miss-mumu/developer2gwy/issues/6 "https://github.com/miss-mumu/developer2gwy/issues/6")
-* [体制内人员如何参与此项目？](https://github.com/miss-mumu/developer2gwy/issues/8 "https://github.com/miss-mumu/developer2gwy/issues/8")
-* [备考人员如何参与项目？](https://github.com/miss-mumu/developer2gwy/issues/7 "https://github.com/miss-mumu/developer2gwy/issues/7")
-* [怎么选择合适的岗位？怎么避免进去以后996？现在公务员也是很卷吗？](https://github.com/miss-mumu/developer2gwy/issues/17 "https://github.com/miss-mumu/developer2gwy/issues/17")
+* [D2G 项目的初心以及真实目的？](https://github.com/miss-mumu/developer2gwy/issues/3)
+* [如何保证内容的真实可靠性？](https://github.com/miss-mumu/developer2gwy/issues/5)
+* [更新进度为什么这么慢？](https://github.com/miss-mumu/developer2gwy/issues/4)
+* [如何分享培训机构课程？收费吗？是最新的吗？](https://github.com/miss-mumu/developer2gwy/issues/6)
+* [体制内人员如何参与此项目？](https://github.com/miss-mumu/developer2gwy/issues/8)
+* [备考人员如何参与项目？](https://github.com/miss-mumu/developer2gwy/issues/7)
+* [怎么选择合适的岗位？怎么避免进去以后996？现在公务员也是很卷吗？](https://github.com/miss-mumu/developer2gwy/issues/17)
 
 wiki 列表必看
 
