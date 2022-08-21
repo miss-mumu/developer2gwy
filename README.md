@@ -33,7 +33,16 @@
   - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
   - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
   - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
-  - 面试考官评价标准？
+- 公务员面试考官系列： 
+  - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
+  - 面试考官青睐什么样的考生——考生篇
+  - 面试是怎么保持公平公正
+  - 面试考官怎么看待考生着装
+  - 面试是否需要眼神交流
+  - 面试答题的正确步骤
+  - 考场考官间的评分潜规则
+  - 考场上需要掌握的小细节
+  - 等等
 
 更新如下内容：
 - README更改
