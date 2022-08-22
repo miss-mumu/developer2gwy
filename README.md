@@ -35,7 +35,7 @@
   - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
 - 公务员面试考官系列： 
   - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
-  - 面试考官青睐什么样的考生——考生篇
+  - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
   - 面试是怎么保持公平公正
   - 面试考官怎么看待考生着装
   - 面试是否需要眼神交流
