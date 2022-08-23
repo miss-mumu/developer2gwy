@@ -36,7 +36,7 @@
 - 公务员面试考官系列： 
   - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
   - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
-  - 面试是怎么保持公平公正
+  - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
   - 面试考官怎么看待考生着装
   - 面试是否需要眼神交流
   - 面试答题的正确步骤
@@ -184,10 +184,12 @@ wiki 列表必看
   * 行测问题手册
   * 申论问题手册
   * 面试问题手册
-    - 面试紧张怎么办？
-    - 面试考场上大脑一片空白怎么办？
-    - 面试怎么入门、提高？
-    - 面试考官评价标准？
+    - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
+    - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
+    - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
+    - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
+    - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
+    - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
   * 体能问题手册
   * 体检问题手册
   * 政审问题手册
