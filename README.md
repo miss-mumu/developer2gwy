@@ -37,7 +37,7 @@
   - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
   - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
   - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
-  - 面试考官怎么看待考生着装
+  - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
   - 面试是否需要眼神交流
   - 面试答题的正确步骤
   - 考场考官间的评分潜规则
@@ -190,6 +190,7 @@ wiki 列表必看
     - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
     - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
     - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
+    - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
   * 体能问题手册
   * 体检问题手册
   * 政审问题手册
