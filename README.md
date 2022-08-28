@@ -6,7 +6,7 @@
 
 ## 👋Quick start
 
-❓ [为什么](#-为什么) | 📑 [教程简介](#-教程简介) | 👩‍💻 [团队简介](#-团队简介) | 🤟 [项目必看](#-项目必看) | 🔖 [正文目录](#-正文目录) | [体制问答](https://www.gongkaoshequ.com/cate/4_38_21_23_22/seq/0)
+❓ [为什么](#-为什么) | 📑 [教程简介](#-教程简介) | 👩‍💻 [团队简介](#-团队简介) | 🤟 [项目必看](#-项目必看) | 🔖 [正文目录](#-正文目录) | 🐇 [体制问答](https://www.gongkaoshequ.com/cate/4_38_21_23_22/seq/0)
 
 ---
 
@@ -38,8 +38,8 @@
   - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
   - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
   - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
-  - 面试是否需要眼神交流
-  - 面试答题的正确步骤
+  - [面试是否需要眼神交流](https://www.gongkaoshequ.com/thread/221)
+  - [面试答题的正确步骤](https://www.gongkaoshequ.com/thread/223)
   - 考场考官间的评分潜规则
   - 考场上需要掌握的小细节
   - 等等
