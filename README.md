@@ -40,10 +40,9 @@
   - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
   - [面试是否需要眼神交流](https://www.gongkaoshequ.com/thread/221)
   - [面试答题的正确步骤](https://www.gongkaoshequ.com/thread/223)
-  - 考场考官间的评分潜规则
-  - 考场上需要掌握的小细节
-  - 等等
-
+  - [考场考官间的评分潜规则](https://www.gongkaoshequ.com/thread/224)
+  - [考场上需要掌握的小细节](https://www.gongkaoshequ.com/thread/225)
+  
 更新如下内容：
 - README更改
 - D2G已有内容更新
