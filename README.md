@@ -20,36 +20,19 @@
 ---
 **公告：**
 
-今年省考的基本上落幕了，各地的面试成绩以及排名都陆续公布。和几个参加省考的朋友聊了下今年关于面试的事情，大家普遍的感觉，和今年鄙视一样，判分比较宽松，大多都在83道87之间。
+因10月某重大活动，导致GitHub不稳定，我们不便使用相应工具，因此决定暂停更新。本以为是过了就可以恢复，谁知，项目参与人员都被抽调去疫情防控值守，有去社区下沉，有守卡口，有入驻隔离点工作。大家都散到各个点上，全力防控。
 
-交流了下他们答题内容，我们也觉得给分比较宽松，有些综合分析类的题目回答也就一分多钟就结束了（正常3分钟到4分钟之间），最后总分也有84分。就像我们之前聊的[关于今年7月省考的一些看法](https://www.gongkaoshequ.com/thread/206)中说的，今年的招考放的较为宽松，并且加速不少，从而影响到后续的一系列工作，例如面试、考察。政审是按部就班，对照打勾，不会有啥影响。
+现在，疫情已经收到控制，我们部分人员已经开始正常上班了。所以，D2G开始恢复更新，对于更新，我们将采取迭代式的更新，逐步完善，一点点的改进，不再类似以前发版本一样。
 
-这种情况会拉近考霸和努力备考者之间的差距，让多年进面未上岸的考霸和用心准备一两年的考生基本站在同一起跑线上，是利于弱者的。这对于刚入门备考的新手来讲，是件好事。
+还有个把月国考，本想在国庆后，加大更新资源的力度，帮助大家国考冲刺。因为上述原因，没有落实。对此，我们也反思了，以后会改变[社区资源](https://www.gongkaoshequ.com)更新策略，保证大家在有需要的时候，随时能够获取备考资源资料。
 
-然后，这周D2G项目新增如下内容：
-- [面试的最佳实践、注意事项](https://www.gongkaoshequ.com/thread/211)
-- 申论的最佳实践、注意事项
-- 面试问题手册
-  - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
-  - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
-  - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
-- 公务员面试考官系列： 
-  - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
-  - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
-  - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
-  - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
-  - [面试是否需要眼神交流](https://www.gongkaoshequ.com/thread/221)
-  - [面试答题的正确步骤](https://www.gongkaoshequ.com/thread/223)
-  - [考场考官间的评分潜规则](https://www.gongkaoshequ.com/thread/224)
-  - [考场上需要掌握的小细节](https://www.gongkaoshequ.com/thread/225)
-  
-更新如下内容：
-- README更改
-- D2G已有内容更新
-- [23年国考课程资料](https://www.gongkaoshequ.com/cate/7_31_32/seq/0)
+再者，我们重新整理了，D2G项目发展的思路、现有资源、更新内容等，并且与一些关注项目的朋友沟通交流，多次内部讨论。我们一直认为D2G项目已经进入了稳定发展期。决定接下里的一段时间，完善补全计划内容，整理分类无需更新的内容，优化文章间关系，制定考公路线图以及导航。
 
-下周计划：
-- 制作行测、申论、面试的roadmap
+并且，就一些每年考公的实践问题，做出更新调整。例如：
+
+- 今年国考的重点内容
+- 国考面试实践方案
+- 等等
 
 > 比起输出知识或者内容，陪伴大家上岸更为重要！如果你在公考之路上，有彷徨、有犹豫、有问题、少资料、少咨询、缺计划、缺方法清[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)或者在[公考社区](https://www.gongkaoshequ.com)发贴，我们竭尽所能，帮大家。
 
@@ -183,13 +166,19 @@ wiki 列表必看
   * 行测问题手册
   * 申论问题手册
   * 面试问题手册
-    - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
-    - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
-    - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
+    - [面试的最佳实践、注意事项](https://www.gongkaoshequ.com/thread/211)
     - [面试考官青睐什么样的考生——考官篇](https://www.gongkaoshequ.com/thread/217)
     - [面试考官青睐什么样的考生——考生篇](https://www.gongkaoshequ.com/thread/218)
     - [面试是怎么保持公平公正](https://www.gongkaoshequ.com/thread/220)
     - [面试考官怎么看待考生着装](https://www.gongkaoshequ.com/thread/221)
+    - [面试是否需要眼神交流](https://www.gongkaoshequ.com/thread/221)
+    - [面试答题的正确步骤](https://www.gongkaoshequ.com/thread/223)
+    - [考场考官间的评分潜规则](https://www.gongkaoshequ.com/thread/224)
+    - [考场上需要掌握的小细节](https://www.gongkaoshequ.com/thread/225)
+    - [面试紧张怎么办？](https://www.gongkaoshequ.com/thread/214)
+    - [面试考场上大脑一片空白怎么办？](https://www.gongkaoshequ.com/thread/215)
+    - [面试怎么入门、提高？](https://www.gongkaoshequ.com/thread/216)
+    
   * 体能问题手册
   * 体检问题手册
   * 政审问题手册
